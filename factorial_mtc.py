@@ -5,7 +5,7 @@ FACTORIAL ASSIGNMENT
 """
 import math
 
-# Using the MTC first principles of calculating factorial of a number
+# Using the MTC first principles of calculating factorial of a number with Maths
 
 
 # We defined function test_one_1() as below
