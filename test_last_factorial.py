@@ -5,10 +5,23 @@ FACTORIAL ASSIGNMENT
 """
 
 
-# class AddNumbers(unittest.TestCase):
+ 
 def test_factorial():
     """Function calculating the factorial of a declared number"""
-    number = 4
+    number = 1
+    result = my_number(number)
+    assert my_number(result)
+
+
+def test_factorial():
+    """Function calculating the factorial of a declared number"""
+    number = 2
+    result = my_number(number)
+    assert my_number(result)
+
+def test_factorial():
+    """Function calculating the factorial of a declared number"""
+    number = 3
     result = my_number(number)
     assert my_number(result)
 
